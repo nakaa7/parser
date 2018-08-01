@@ -103,6 +103,7 @@ class Parser
     }
 
 }
+
 if($_SERVER['argv'][1]){
     $filename = trim($_SERVER['argv'][1]);   
 }else{
